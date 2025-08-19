@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+<Head>
+<style>
+body {
+background-color: #f5f5dc;
+font-family: Arial, sans-serif;
+}
+
+h1,h2{
+color: red;
+text-align: center;
+font-family: Arial,sans-serif;
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<h1> Sri Mahasakthi Global Corporation </H1>
+<H1> IMPORT & EXPORT </h1>
+<h2>No: 620 LIG 3RD Cross, CHS 707, Near Ganesh Temple, Yelahanka New Town, Bangalore-560064.
+PH: (+91)9845885999,9845858999 OFF, KA:9845850806 </h2>
+
+<h3> List Of Products:- </h3>
+
+<h3>1.Rice Catagory</h3>
+<h4> IR64 5% Broken Porboiled Rice </h4>
+<img SRC="C:\Users\India\Desktop\PBR.jfif"" alt="IR64 5% Broken Porboiled Rice" width="150"> 
+<h3> Description:-</H3><H4>Parboiled rice, also called "CONVERTED RICE", easy-cook rice,
+[1] sella rice, and miniket (as predominantly called in West Bengal and Odisha in India, and in Bangladesh) is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying.
+[2] These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils.
+[3] The treatment is practiced in many parts of the world.
+[4] Parboiling drives nutrients, especially thiamine, from the bran to the endosperm, hence parboiled white rice is mostly nutritionally similar to brown rice.[5][6] Given the pale tan color that results from these bran components, parboiled rice is sometimes called saffron sella.</H4>
+<h4> Raw Basmathi Rice </h4>
+<img SRC="C:\Users\India\Desktop\RBR.jpeg"" alt="Raw Basmathi Rice" width="150">
+<h3> Description:-</H3><H4>Basmati (pronounced ['bɑːsmət̪iː]) is a variety of long, slender-grained aromatic rice which originates from the Indian subcontinent, mainly in the regions of Nepal, Punjab, Haryana, Sindh and many other states and provinces of India and Pakistan.
+[2] As of 2019, India accounted for 65% of the international trade in basmati rice, while Pakistan accounted for the remaining 35%.
+[3] Many countries use domestically grown basmati rice crops;
+[4] however, basmati is geographically exclusive to certain districts of India and Pakistan.
+[5] According to the Indian Agricultural and Processed Food Products Export Development Authority (APEDA), a rice variety is eligible to be called basmati if it has a minimum average precooked milled rice length of 6.61 mm (0.260 in) and average precooked milled rice breadth of up to 2 mm (0.079 in), among other parameters.<H4>
+<h4> Sona Masoori Rice </h4>
+<img SRC="C:\Users\India\Desktop\SMR.jpg"" alt="Sona Masoori Rice" width="150">
+<h3> Description:-</H3><H4>Sona Masoori rice is a medium-grain, non-Basmati rice, primarily grown in Andhra Pradesh, Telangana, and Karnataka in India. It's known for its lightweight, aromatic, and slightly sweet flavor. Key specifications include a medium grain size, white to golden color, and a typical moisture content of 14% maximum. In india it is more Tasty Rice becuase of that reason only it is more popular in india and international. It's also known for being a good source of manganese, selenium, and magnesium.</H4>
+<h3> 2.Suger Catagory </h3>
+<h4> White Suger </h4>
+<img SRC="C:\Users\India\Desktop\Sugar.jpg"" alt="White Sugar" width="150">
+<h3> Description:-</H3><H4>The refining process completely removes the molasses from cane juice or beet juice to give the disaccharide white sugar, sucrose. It has a purity higher than 99.7%.[1] Its molecular formula is C
+12H
+22O
+11.[2] White sugars produced from sugar cane and sugar beet are chemically indistinguishable: it is possible, however, to identify its origin through a carbon-13 analysis.[1]
+
+White sugar (and some brown sugar) produced from sugar cane may be refined using bone char by a few sugar cane refiners.[3] Beet sugar has never been processed with bone char and is vegan.[4] In modern times, activated carbon and ion-exchange resin may be used (see Sugar refinery § Purification).
+
+From a chemical and nutritional point of view, white sugar does not contain—in comparison to brown sugar—some minerals (such as calcium, potassium, iron and magnesium) present in small quantities in molasses.[5][6][7] The only detectable differences are, therefore, the white color and the less intense flavor.</h4>
+<h4> Blown Suger </h4>
+<img SRC="C:\Users\India\Desktop\BS.jpeg"" alt=" Blown Suger" width="150">
+<h3> Description:-</H3><H4>Brown sugar is a sucrose sugar product with a distinctive brown color due to the presence of molasses.[1][2] It is either an unrefined or partially refined soft sugar consisting of sugar crystals with some residual molasses content or produced by the addition of molasses to refined white sugar.[1][2] Brown sugar is 98% carbohydrates as mainly sucrose, contains no micronutrients in significant amounts, and is not healthier than white sugar. 
+The Codex Alimentarius requires brown sugar to contain at least 88% sucrose plus invert sugar.[3] Commercial brown sugar contains from 3.5% molasses (light brown sugar) to 6.5% molasses (dark brown sugar) based on its total volume.[1][4] Based on total weight, regular commercial brown sugar contains up to 10% molasses.[5] Brown sugars are graded numerically according to how dark they are, with higher numbers correlating with darker sugars. The most common gradings are 6, 8, 10 and 13.[6] The product is naturally moist from the hygroscopic nature of the molasses and is often labeled "soft." The product may undergo processing to make it flow better for industrial handling.
+Particle size is variable but generally smaller than that of granulated white sugar.[1] Products for industrial use (e.g., the industrial production of cakes) may be based on caster sugar, which has crystals of approximately 0.35 mm.</h4>
+
+<h3> 3.SPICES CATAGOTY </h3>
+<h4> Black Pepper </h4>
+<img SRC="C:\Users\India\Desktop\Pepper.jpg"" alt="Sugar" width="150">
+<h3> Description:-</H3><H4>Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit (the peppercorn), which is usually dried and used as a spice and seasoning. The fruit is a drupe (stonefruit) which is about 5 mm (1⁄4 in) in diameter (fresh and fully mature), dark red, and contains a stone which encloses a single pepper seed. Peppercorns and the ground pepper derived from them may be described simply as pepper, or more precisely as black pepper (cooked and dried unripe fruit), green pepper (dried unripe fruit), or white pepper (ripe fruit seeds).[2]
+
+Black pepper is native to the Malabar Coast of India,[3][4] and the Malabar pepper is extensively cultivated there and in other tropical regions. Ground, dried, and cooked peppercorns have been used since antiquity, both for flavour and as a traditional medicine. Black pepper is the world's most traded spice,[5] and is one of the most common spices added to cuisines around the world. Its spiciness is due to the chemical compound piperine, which is a different kind of spiciness from that of capsaicin characteristic of chili peppers. It is ubiquitous in the Western world as a seasoning, and is often paired with salt and available on dining tables in shakers or mills.</h4>
+<h4> Cardamom </h4>
+<img SRC="C:\Users\India\Desktop\CardamomGreen.jpg"" alt="cardamom" width="150">
+<h3> Description:-</H3><H4> Cardamom (/ˈkɑːrdəməm/[1]), sometimes cardamon or cardamum,[2] is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae.[3] Both genera are native to the Indian subcontinent and Indonesia. They are recognized by their small seed pods: triangular in cross-section and spindle-shaped, with a thin, papery outer shell and small, black seeds; Elettaria pods are light green and smaller, while Amomum pods are dark brown and larger.
+
+Species used for cardamom are native throughout tropical and subtropical Asia. The first references to cardamom are found in Sumer, and in Ayurveda.[4] In the 21st century, it is cultivated mainly in India, Indonesia, and Guatemala.<h4>
+<h4> Cloves </h4>
+<img SRC="C:\Users\India\Desktop\Cloves.jfif"" alt="Cloves" width="150">
+<h3> Description:-</H3><H4> Cloves are the aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum (/sɪˈzɪdʒiːəm ˌærəˈmætɪkəm/).[2][3] They are native to the Maluku Islands, or Moluccas, in Indonesia, and are commonly used as a spice, flavoring, or fragrance in consumer products, such as toothpaste, soaps, or cosmetics.[4][5] Cloves are available throughout the year owing to different harvest seasons across various countries.
+The clove tree is an evergreen that grows up to 8–12 metres (26–39 ft) tall, with large leaves and crimson flowers grouped in terminal clusters. The flower buds initially have a pale hue, gradually turn green, then transition to a bright red when ready for harvest. Cloves are harvested at 1.5–2 centimetres (5⁄8–3⁄4 in) long, and consist of a long calyx that terminates in four spreading sepals, and four unopened petals that form a small central ball.
+
+Clove stalks are slender stems of the inflorescence axis that show opposite decussate branching. Externally, they are brownish, rough, and irregularly wrinkled longitudinally with short fracture and dry, woody texture. Mother cloves (anthophylli) are the ripe fruits of cloves that are ovoid, brown berries, unilocular and one-seeded. Blown cloves are expanded flowers from which both corollae and stamens have been detached. Exhausted cloves have most or all the oil removed by distillation. They yield no oil and are darker in color.<h4>
+<h4> Cinnamon </h4>
+<img SRC="C:\Users\India\Desktop\cinnamon.jfif"" alt="cinnamon" width="150">
+<h3> Description:-</H3><H4> Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines, sweet and savoury dishes, biscuits, breakfast cereals, snack foods, bagels, teas, hot chocolate and traditional foods. The aroma and flavour of cinnamon derive from its essential oil and principal component, cinnamaldehyde, as well as numerous other constituents, including eugenol.
+Cinnamon is the name for several species of trees and the commercial spice products that some of them produce. All are members of the genus Cinnamomum in the family Lauraceae. Only a few Cinnamomum species are grown commercially for spice. Cinnamomum verum (alternatively C. zeylanicum), known as "Ceylon cinnamon" after its origins in Sri Lanka (formerly Ceylon), is considered to be "true cinnamon",[1] but most cinnamon in international commerce is derived from four other species, usually and more correctly referred to as "cassia": C. burmanni (Indonesian cinnamon or Padang cassia), C. cassia (Chinese cinnamon or Chinese cassia), C. loureiroi (Saigon cinnamon or Vietnamese cassia), and the less common C. citriodorum (Malabar cinnamon).
+In 2023, world production of cinnamon was 238,403 tonnes, led by China with 39% of the total.<h4>
+<h4> Turmeric </h4>
+<img SRC="C:\Users\India\Desktop\Turmeric.jfif"" alt="Turmeric" width="150">
+<h3> Description:-</H3><H4> Turmeric (/ˈtɜːrmərɪk, ˈtjuː-/),[2][3] or Curcuma longa (/ˈkɜːrkjʊmə ˈlɒŋɡə/),[4][5] is a flowering plant in the ginger family Zingiberaceae.
+ It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C (68 and 86 °F) and high annual rainfall to thrive.
+ Plants are gathered each year for their rhizomes, some for propagation in the following season and some for consumption or dyeing.
+[6] The rhizomes can be used fresh, but they are often boiled in water and dried, after which they are ground into a deep orange-yellow shelf-stable spice powder commonly used as a coloring and flavoring agent in many Asian cuisines, especially for curries (curry powder). Turmeric powder has a warm, bitter, black pepper-like flavor and earthy, mustard-like aroma.
+7] Although long used in Ayurvedic medicine, there is no high-quality clinical evidence that consuming turmeric or the principal turmeric constituent, curcumin, is effective for treating any disease.
+[8][9] Curcumin, a bright yellow chemical produced by the turmeric plant, is approved as a food additive by the World Health Organization, European Parliament, and United States Food and Drug Administration.[6] Turmeric and its extract curcumin are generally safe but have recently been linked, especially in high-bioavailability forms, to rare cases of immune-mediated acute liver injury that typically resolve after stopping use, though severe outcomes can occur if use continues.</h4>
+<h4> Chili Powder </h4>
+<img SRC="C:\Users\India\Desktop\international Format\mirchi.webp"" alt="Chili Powder" width="150">
+<h3> Description:-</H3><H4>Chili powder (also spelled chile, chilli, or, alternatively, powdered chili) is the dried, pulverized fruit of one or more varieties of chili pepper, sometimes with the addition of other spices (in which case it is also sometimes known as chili powder blend or chili seasoning mix).[1] It is used as a spice (or spice blend) to add pungency (piquancy) and flavor to culinary dishes. In American English, the spelling is usually "chili"; in British English, "chilli" (with two "l"s) is used consistently.
+Chili powder blends are composed chiefly of chili peppers and blended with other spices including cumin, onion, garlic powder, and sometimes salt.[3][4] The chilis are most commonly red chili peppers; "hot" varieties usually also include cayenne pepper. As a result of the varying recipes used, the spiciness of any given chili powder is variable.[citation needed]
+
+The first commercial blends of chili powder in the U.S. were created by D.C. Pendery and William Gebhardt for chili con carne.[5] Gebhardt opened Miller's Saloon in New Braunfels, Texas. Chili was the town's favorite dish. However, chili peppers could only be found at certain times of the year. Gebhardt imported some ancho peppers from Mexico and ran the peppers through a small meat grinder three times and created the first commercial chili powder in 1894.<h4>
+<h3> 4.DRY FRUITS </h3>
+<h4> Cashews </h4>
+<img SRC="C:\Users\India\Desktop\Cashews.jpg"" alt="Cloves" width="150">
+<h3> Description:-</H3><H4> Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is native to South America and is the source of the cashew nut and the cashew apple, an accessory fruit. The tree can grow as tall as 14 meters (46 feet), but the dwarf cultivars, growing up to 6 m (20 ft), prove more profitable, with earlier maturity and greater yields. The cashew nut is edible and is eaten on its own as a snack, used in recipes, or processed into cashew cheese or cashew butter. The nut is often simply called a 'cashew'. The cashew apple is a light reddish to yellow fruit, whose pulp and juice can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor.
+
+In 2023, 3.9 million tons of cashew nuts were harvested globally, led by the Ivory Coast and India. In addition to the nut and fruit, the shell yields derivatives used in lubricants, waterproofing, and paints. </h4>
+<h4> Almonds </h4>
+<img SRC="C:\Users\India\Desktop\Almonds.jfif"" alt="Cloves" width="150">
+<h3> Description:-</H3><H4> The almond (Prunus amygdalus, syn. Prunus dulcis (Mill.) D.A.Webb, nom. illeg. non Prunus dulcis Rouchy) is a species of tree from the genus Prunus. Along with the peach, it is classified in the subgenus Amygdalus, distinguished from the other subgenera by corrugations on the shell (endocarp) surrounding the seed.
+
+The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, which is not a true nut.[3] Shelling almonds refers to removing the shell to reveal the seed. Almonds are sold shelled or unshelled. Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, which is then removed to reveal the white embryo. Once almonds are cleaned and processed, they can be stored for around a year if kept refrigerated; at higher temperatures they will become rancid more quickly.[4] Almonds are used in many cuisines, often featuring prominently in desserts, such as marzipan.
+The almond tree prospers in a moderate Mediterranean climate with cool winter weather.[3] It is rarely found wild in its original setting.[5] Almonds were one of the earliest domesticated fruit trees, due to the ability to produce quality offspring entirely from seed, without using suckers and cuttings. Evidence of domesticated almonds in the Early Bronze Age has been found in the archeological sites of the Middle East, and subsequently across the Mediterranean region and similar arid climates with cool winters.</h4>
+
+<h4> DATES </h4>
+<img SRC="C:\Users\India\Desktop\DATES.JPG"" alt="Cloves" width="150">
+<h3> Description:-</H3><H4>For other species of date palms, see Phoenix (PLANT)
+[1] Phoenix dactylifera, commonly known as the date palm.
+[2] is a flowering-plant species in the palm family Arecaceae, cultivated for its edible sweet fruit called dates. The species is widely cultivated across northern Africa, the Middle East, the Horn of Africa, Australia, South Asia, and the desert regions of Southern California in the United States.
+[3] It is naturalized in many tropical and subtropical regions worldwide.
+[4] P. dactylifera is the type species of genus Phoenix, which contains 12–19 species of wild date palms.
+[5]Date palms reach up to 60–110 feet in height, growing singly or forming a clump with several stems from a single root system. Slow-growing, they can reach over 100 years of age when maintained properly.
+[7] Date fruits (dates) are oval-cylindrical, 3 to 7 centimetres (1 to 3 inches) long, and about 2.5 cm (1 in) in diameter, with colour ranging from dark brown to bright red or yellow, depending on variety. Containing 61–68 percent sugar by mass when dried,
+[8] dates are consumed as sweet snacks on their own or with confections.There is archaeological evidence of date cultivation in Arabia from the 6th millennium BCE.
+[9] Dates are "emblematic of oasis agriculture and highly symbolic in Muslim, Christian, and Jewish religions".</H4>
+<h4> RAISINS </h4>
+<img SRC="C:\Users\India\Desktop\international Format\raisins.jpg"" alt="RAISINS" width="150">
+<h3> Description:-</H3><H4>A raisin is a dried grape. Raisins are produced in many regions of the world and may be eaten raw or used in cooking, baking, and brewing. In the United Kingdom, Ireland, New Zealand, Australia and South Africa,[1] the word raisin is reserved for the dark-colored dried large grape,[2] with sultana being a golden- or green-colored dried grape, and currant being a dried small Black Corinth seedless grape.
+Raisin varieties depend on the types of grapes used and appear in a variety of sizes and colors, including green, black, brown, purple, blue, and yellow. Seedless varieties include sultanas (the common American type is known as Thompson Seedless in the United States), Zante currants (black Corinthian raisins, Vitis vinifera L. var. Apyrena),[3] and Flame grapes. Raisins are traditionally sun-dried but may also be artificially dehydrated.</h4>
+
+</body>
+</html>
